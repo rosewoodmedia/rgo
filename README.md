@@ -1,4 +1,4 @@
-# rwgo
+# rgo
 A command-line utility that uses the ~~srslang~~ anything-gos interpreter with
 a bunch of built-in functions for common operations at Rosewood Media.
 
